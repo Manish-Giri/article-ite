@@ -1,3 +1,14 @@
+# ARTICLE-ITE
+
+#### What is this?
+
+This is intended to be a full-stack web app for article management, built on the MERN stack. This includes Redux for state management.
+
+Work-In-Progrss :)
+
+---
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
