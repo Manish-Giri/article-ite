@@ -1,10 +1,10 @@
 # ARTICLE-ITE
 
-#### What is this?
+### What is this?
 
 This is intended to be a full-stack web app for article management, built on the MERN stack. This includes Redux for state management.
 
-Work-In-Progrss :)
+Work-In-Progress :)
 
 ---
 
